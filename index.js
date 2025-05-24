@@ -15,7 +15,7 @@ let paddleX = (canvas.width - paddleWidth) / 2;
 // Bricks
 let rowCount = 5,
     columnCount = 9,
-    brickWidth = 54,
+    brickWidth = 70,
     brickHeight = 18,
     brickPadding = 12,
     topOffset = 40,
