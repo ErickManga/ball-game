@@ -2,7 +2,7 @@ let canvas = document.getElementById('game'),
     ctx = canvas.getContext('2d'),
     ballRadius = 9,
     x = canvas.width / (Math.floor(Math.random() * Math.random() * 10) + 3),
-    y = canvas.height - 45,
+    y = canvas.height - 80,
     dx = 2,
     dy = -2;
 
